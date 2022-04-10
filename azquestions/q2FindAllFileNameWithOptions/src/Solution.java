@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
@@ -12,12 +13,15 @@ import java.util.stream.Collectors;
 
 /***
  * option --> strategy
+ * option normal  : contain given string
+ * option not  : not contain given string
  */
 
 public class Solution {
     public static void  main (String ... args) {
         System.out.println("hello world!");
         testOne();
+
     }
 
     public static class File {

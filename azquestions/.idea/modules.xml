@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/alg1-quicksort/alg1-quicksort.iml" filepath="$PROJECT_DIR$/alg1-quicksort/alg1-quicksort.iml" />
       <module fileurl="file://$PROJECT_DIR$/azquestions.iml" filepath="$PROJECT_DIR$/azquestions.iml" />
       <module fileurl="file://$PROJECT_DIR$/q1findfile/q1findfile.iml" filepath="$PROJECT_DIR$/q1findfile/q1findfile.iml" />
       <module fileurl="file://$PROJECT_DIR$/q2FindAllFileNameWithOptions/q2FindAllFileNameWithOptions.iml" filepath="$PROJECT_DIR$/q2FindAllFileNameWithOptions/q2FindAllFileNameWithOptions.iml" />
